@@ -1,6 +1,6 @@
 
 
-public class CM1 {
+
 	/*static int b;
 	private int a;
 	public void demo() {
@@ -29,7 +29,7 @@ public class CM1 {
 	}
 
 }*/
-static int a=10;
+/*static int a=10;
 {
 	System.out.println(a);
 	System.out.println(CM1.a);
@@ -46,4 +46,4 @@ public static void demo() {
 	
 }
 
-}
+}*/
